@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dinner App</string>
+    <string name="login_invalid_credentials_message">Wrong username or password!</string>
+</resources>
